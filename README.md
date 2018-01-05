@@ -1,6 +1,6 @@
-# [Customizing version of example-hugo site](https://hyunyoung2.github.io/customizing-version-hugo-example/)
+# [Customizing version of example-hugo site](https://hyunyoung2.github.io/hyunyoung2-customizing-version-hugo-example/)
 
-This is for showing Customizing of [example-hugo-site](https://hyunyoung2.github.io/example-hugo-site)
+This is for showing Customizing of [example-hugo-site](https://hyunyoung2.github.io/hyunyoung2-example-hugo-site). I mean This have nothing. i.e. content doesn't exist.
 
 # How to make this version. 
 
